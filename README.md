@@ -13,6 +13,8 @@ This project utilizes machine learning techniques to assess the risk of power gr
 
 # Flow Diagram
 
+![Flow Diagram](https://github.com/shashanks20/Intel-Hackathon/blob/main/Images/Flow%20Diagram.jpg)]
+
 1. **Data Collection:**
    - Historical grid performance data and real-time weather data are collected.
    - Data is stored in the database in JSON format.
@@ -36,8 +38,6 @@ This project utilizes machine learning techniques to assess the risk of power gr
 6. **Web Interface:**
    - Web interface displays risk assessment results and severity information.
    - Concerned authorities can access the interface to assess the risk and take necessary actions.
-
-Link : https://github.com/shashanks20/Intel-Hackathon/blob/main/Data-Vizualization/FlowDiagram.pdf
 
 ## Technologies Used
 
