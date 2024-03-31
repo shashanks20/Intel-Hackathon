@@ -1,0 +1,75 @@
+.state-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    padding: 40px;
+    text-align: center;
+    
+  }
+  
+  .state-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 25px;
+    opacity: 0.7;
+    margin-top: 24px;
+  }
+  
+  .state-card {
+    background-color: #ede7e7;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    height: 100px;
+    color: black;
+    text-decoration: none;
+    width: 500px;
+    max-width: 600px;
+    box-sizing: border-box;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+
+  }
+
+  .state-card a {
+    text-decoration: none; /* Remove underline */
+  }
+  
+  /* .state-card:hover {
+    background-color: #ce3a3a;
+    color: azure;
+  } */
+  .cardAnimation{
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+    /* border-bottom:  1px solid #ccc; */
+  }
+  .cardAnimation::before{
+    content:" ";
+    /* background-color: #ce3a3a; */
+   background-color: rgb(224, 113, 113);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    transform:scaleX(0);
+    transform-origin: left;
+    transition: all 2s;
+    z-index: -1;
+    position: absolute;
+    border-radius: 8px;
+  }
+  .cardAnimation:hover::before{
+    transform: scaleX(1);
+  }
+  .region-name{
+    font-weight: bold;
+  }
+  
+.state-link{
+  text-decoration: none;
+}

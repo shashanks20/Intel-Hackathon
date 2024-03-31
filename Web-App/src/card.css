@@ -1,0 +1,40 @@
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 60px auto 0; /* Adjust margin to create space for the navbar */
+  max-width: 800px;
+  position: relative; /* Ensure proper positioning */
+  z-index: 1; /* Ensure card appears above navbar */
+}
+
+.card-header {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-body p,
+.card-body li {
+  margin-bottom: 0.5rem;
+}
+
+.shadow-inner-red {
+  box-shadow: inset 0px 0px 5px 2px rgba(255, 0, 0, 1);
+  background-color: rgb(250, 221, 221);
+  
+}
+
+.shadow-inner-blue {
+  box-shadow: inset 0px 0px 5px 2px rgba(0, 0, 255, 1);
+  background-color: rgb(240, 240, 252);
+}

@@ -1,0 +1,33 @@
+/* .substation-container {
+    margin: 20px;
+  }
+  
+  .substation-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .substation-card {
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid transparent; /* default border */
+    /*transition: border-color 0.3s ease;
+  }
+  
+  .substation-card h3 {
+    margin-bottom: 10px;
+  }
+  
+  .high-risk {
+    border-color: red;
+  }
+  
+  .low-risk {
+    border-color: blue;
+  }*/
+  .state{
+    padding-top: 80px;
+    padding-left:10px;
+    
+  } 
