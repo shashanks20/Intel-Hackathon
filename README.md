@@ -13,7 +13,7 @@ This project utilizes machine learning techniques to assess the risk of power gr
 
 # Flow Diagram
 
-https://github.com/shashanks20/Intel-Hackathon/blob/main/Images/Flow%20Diagram.jpg)
+![FlowDiagram](https://github.com/shashanks20/Intel-Hackathon/blob/main/Images/Flow%20Diagram.jpg)
 
 1. **Data Collection:**
    - Historical grid performance data and real-time weather data are collected.
