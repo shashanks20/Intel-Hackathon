@@ -37,7 +37,7 @@ This project utilizes machine learning techniques to assess the risk of power gr
    - Web interface displays risk assessment results and severity information.
    - Concerned authorities can access the interface to assess the risk and take necessary actions.
 
-![Flow Diagram](https://example.com/flow_diagram.png)
+![Flow Diagram](Images/Flow Diagram.jpg)
 
 ## Technologies Used
 
