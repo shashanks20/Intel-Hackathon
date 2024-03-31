@@ -39,8 +39,6 @@ This project utilizes machine learning techniques to assess the risk of power gr
 
 ![Flow Diagram](https://example.com/flow_diagram.png)
 
-
-Replace `"https://example.com/flow_diagram.png"` with the actual URL of your flow diagram image. This flow diagram outlines the sequential steps and interactions within your system, illustrating how data flows through different components and processes to assess and mitigate the risk of power grid failure based on weather data.
 ## Technologies Used
 
 - **Python Libraries**: 
