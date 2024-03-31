@@ -11,6 +11,36 @@ Assessing the risk of power grid failure under various disturbances such as heat
 
 This project utilizes machine learning techniques to assess the risk of power grid failure based on weather conditions and historical grid performance data. By analyzing past incidents and correlating them with weather patterns, the models can predict the likelihood of grid failure under different scenarios.
 
+# Flow Diagram
+
+1. **Data Collection:**
+   - Historical grid performance data and real-time weather data are collected.
+   - Data is stored in the database in JSON format.
+
+2. **Training ML Model:**
+   - Machine learning model is trained using historical grid performance data.
+   - Backend server handles model training process.
+
+3. **Real-Time Substation Monitoring:**
+   - Real-time substation data is collected and integrated with weather data.
+   - Backend server manages the real-time data integration process.
+
+4. **Risk Prediction on Weather Data:**
+   - ML model predicts the risk of power grid failure based on weather data.
+   - Backend server performs risk prediction and sends results to the database.
+
+5. **Risk Assessment:**
+   - Severity of the risk is determined based on the predicted risk level.
+   - Database stores classified risk data.
+
+6. **Web Interface:**
+   - Web interface displays risk assessment results and severity information.
+   - Concerned authorities can access the interface to assess the risk and take necessary actions.
+
+![Flow Diagram](https://example.com/flow_diagram.png)
+
+
+Replace `"https://example.com/flow_diagram.png"` with the actual URL of your flow diagram image. This flow diagram outlines the sequential steps and interactions within your system, illustrating how data flows through different components and processes to assess and mitigate the risk of power grid failure based on weather data.
 ## Technologies Used
 
 - **Python Libraries**: 
