@@ -1,4 +1,4 @@
-# Running Your React App
+# Running React App
 
 This guide will help you set up and run your React app using `create-react-app` and adding existing project files.
 
