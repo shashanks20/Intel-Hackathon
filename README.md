@@ -2,11 +2,11 @@
 [<img src="https://www.intel.com/content/dam/develop/public/us/en/images/admin/oneapi-logo-rev-4x3-rwd.png" width="50">](https://www.intel.com/)
 [![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-Video Link- https://drive.google.com/file/d/1aqOC1hYIj0vCx6LCSYRBifcoLnW2tx_Z/view?usp=sharing
+
 # Predicting Power Grid Failure Risk with Machine Learning
 
 Assessing the risk of power grid failure under various disturbances such as heat waves, wind events, and extreme weather phenomena is crucial for ensuring the reliability and resilience of the grid. This project aims to predict the risk of power grid failure using machine learning models trained on historical data and real-time weather information.
-
+Video Link- https://drive.google.com/file/d/1aqOC1hYIj0vCx6LCSYRBifcoLnW2tx_Z/view?usp=sharing
 ## Overview
 
 This project utilizes machine learning techniques to assess the risk of power grid failure based on weather conditions and historical grid performance data. By analyzing past incidents and correlating them with weather patterns, the models can predict the likelihood of grid failure under different scenarios.
