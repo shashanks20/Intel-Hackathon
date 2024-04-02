@@ -6,7 +6,7 @@
 # Predicting Power Grid Failure Risk with Machine Learning
 
 Assessing the risk of power grid failure under various disturbances such as heat waves, wind events, and extreme weather phenomena is crucial for ensuring the reliability and resilience of the grid. This project aims to predict the risk of power grid failure using machine learning models trained on historical data and real-time weather information.
-Video Link- https://drive.google.com/file/d/1_YT-FOaXsFfd4I3ZIB1Op3JZTtvhpXTZ/view?usp=drive_link
+Video Link- https://www.youtube.com/watch?v=T9UhMeE7uoo
 ## Overview
 
 This project utilizes machine learning techniques to assess the risk of power grid failure based on weather conditions and historical grid performance data. By analyzing past incidents and correlating them with weather patterns, the models can predict the likelihood of grid failure under different scenarios.
